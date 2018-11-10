@@ -1,0 +1,11 @@
+#配置应用程序绑定的端口
+server:
+  port: 7001
+
+spring:
+  application:
+    #指定应用程序名称
+    name: SpringBootStudy
+  profiles:
+    #指定启动的环境，格式：application- 后面的字符
+    active: local

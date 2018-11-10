@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <!-- 父pom不打包，不需要 spring-boot-maven-plugin 插件，并将 packaging 改成pom -->
+    <groupId>cn.xt.parent</groupId>
+    <artifactId>spring-boot-parent-core</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0.0.RELEASE</version>
+
+    <!-- 引用子项目(多个) -->
+    <modules>
+        <module>spring-boot-hello-world</module>
+        <module>spring-boot-study-swagger2</module>
+    </modules>
+
+    <!-- 继承 spring 的 starter parent -->
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.1.0.RELEASE</version>
+        <relativePath/>
+    </parent>
+
+    <!-- 指定编码、版本信息 -->
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <java.version>1.8</java.version>
+    </properties>
+
+    <!-- 指定中央仓库为阿里云仓库，也可以在 maven/conf/settings.xml中配置 -->
+    <repositories>
+        <repository>
+            <id>nexus-aliyun</id>
+            <name>Nexus aliyun</name>
+            <url>http://maven.aliyun.com/nexus/content/groups/public</url>
+        </repository>
+    </repositories>
+
+</project>
