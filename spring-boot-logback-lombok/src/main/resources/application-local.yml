@@ -1,0 +1,7 @@
+# 配置 Mapper层日志为debug
+# 有时候本地环境为了方便看详细日志，如SQL所以打成dubg，而生产则不设置
+logging:
+  level:
+     cn.xt.app.dao: debug
+
+# 注：以上配置并没有代码体现，但功能是正常的
