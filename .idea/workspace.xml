@@ -2,39 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="446d9055-b94f-4432-9d15-61d6153d7bb0" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-hello-world/.gitignore" afterPath="$PROJECT_DIR$/1.spring-boot-hello-world/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-hello-world/pom.xml" afterPath="$PROJECT_DIR$/1.spring-boot-hello-world/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-hello-world/src/main/java/cn/xt/app/SpringBootHelloWorldApplication.java" afterPath="$PROJECT_DIR$/1.spring-boot-hello-world/src/main/java/cn/xt/app/SpringBootHelloWorldApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-hello-world/src/main/java/cn/xt/app/controller/MyController.java" afterPath="$PROJECT_DIR$/1.spring-boot-hello-world/src/main/java/cn/xt/app/controller/MyController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-hello-world/src/main/resources/application-local.yml" afterPath="$PROJECT_DIR$/1.spring-boot-hello-world/src/main/resources/application-local.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-hello-world/src/main/resources/application-prod.yml" afterPath="$PROJECT_DIR$/1.spring-boot-hello-world/src/main/resources/application-prod.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-hello-world/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/1.spring-boot-hello-world/src/main/resources/application.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-hello-world/src/test/java/cn/xt/app/SpringBootHelloWorldApplicationTests.java" afterPath="$PROJECT_DIR$/1.spring-boot-hello-world/src/test/java/cn/xt/app/SpringBootHelloWorldApplicationTests.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-logback-lombok/.gitignore" afterPath="$PROJECT_DIR$/2.spring-boot-swagger2/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-logback-lombok/pom.xml" afterPath="$PROJECT_DIR$/3.spring-boot-logback-lombok/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-logback-lombok/src/main/java/cn/xt/app/SpringBootLogbackLombokApplication.java" afterPath="$PROJECT_DIR$/3.spring-boot-logback-lombok/src/main/java/cn/xt/app/SpringBootLogbackLombokApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-logback-lombok/src/main/java/cn/xt/app/controller/MyController.java" afterPath="$PROJECT_DIR$/3.spring-boot-logback-lombok/src/main/java/cn/xt/app/controller/MyController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-logback-lombok/src/main/resources/application-local.yml" afterPath="$PROJECT_DIR$/3.spring-boot-logback-lombok/src/main/resources/application-local.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-logback-lombok/src/main/resources/application-prod.yml" afterPath="$PROJECT_DIR$/2.spring-boot-swagger2/src/main/resources/application-prod.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-logback-lombok/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/2.spring-boot-swagger2/src/main/resources/application.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-logback-lombok/src/main/resources/logback.xml" afterPath="$PROJECT_DIR$/3.spring-boot-logback-lombok/src/main/resources/logback.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-logback-lombok/src/test/java/cn/xt/app/SpringBootLogbackLombokApplicationTests.java" afterPath="$PROJECT_DIR$/3.spring-boot-logback-lombok/src/test/java/cn/xt/app/SpringBootLogbackLombokApplicationTests.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-swagger2/.gitignore" afterPath="$PROJECT_DIR$/3.spring-boot-logback-lombok/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-swagger2/pom.xml" afterPath="$PROJECT_DIR$/2.spring-boot-swagger2/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-swagger2/src/main/java/cn/xt/app/SpringBootSwagger2Application.java" afterPath="$PROJECT_DIR$/2.spring-boot-swagger2/src/main/java/cn/xt/app/SpringBootSwagger2Application.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-swagger2/src/main/java/cn/xt/app/config/Swagger2Config.java" afterPath="$PROJECT_DIR$/2.spring-boot-swagger2/src/main/java/cn/xt/app/config/Swagger2Config.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-swagger2/src/main/java/cn/xt/app/controller/MyController.java" afterPath="$PROJECT_DIR$/2.spring-boot-swagger2/src/main/java/cn/xt/app/controller/MyController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-swagger2/src/main/java/cn/xt/app/request/UserLoginRequest.java" afterPath="$PROJECT_DIR$/2.spring-boot-swagger2/src/main/java/cn/xt/app/request/UserLoginRequest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-swagger2/src/main/java/cn/xt/app/response/UserLoginResponse.java" afterPath="$PROJECT_DIR$/2.spring-boot-swagger2/src/main/java/cn/xt/app/response/UserLoginResponse.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-swagger2/src/main/resources/application-local.yml" afterPath="$PROJECT_DIR$/2.spring-boot-swagger2/src/main/resources/application-local.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-swagger2/src/main/resources/application-prod.yml" afterPath="$PROJECT_DIR$/3.spring-boot-logback-lombok/src/main/resources/application-prod.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-swagger2/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/3.spring-boot-logback-lombok/src/main/resources/application.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-swagger2/src/test/java/cn/xt/app/SpringBootSwagger2ApplicationTests.java" afterPath="$PROJECT_DIR$/2.spring-boot-swagger2/src/test/java/cn/xt/app/SpringBootSwagger2ApplicationTests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3.spring-boot-logback-lombok/pom.xml" afterPath="$PROJECT_DIR$/3.spring-boot-logback-lombok/pom.xml" />
     </list>
     <list id="279243b0-5b3a-4450-bf8e-ef4e11d0371c" name="Failed commit: Default" comment="学习到的知识若不能很好的形成文档，久而久之就忘了曾经是否有那么回事" />
     <ignored path="spring-boot-parent.iws" />
@@ -67,10 +36,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="SpringBootLogbackLombokApplication.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SpringBootLogbackLombokApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3.spring-boot-logback-lombok/src/main/java/cn/xt/app/SpringBootLogbackLombokApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.57581574">
+            <state vertical-scroll-proportion="0.0">
               <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -86,6 +55,26 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-8.823529">
               <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3.spring-boot-logback-lombok/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4476386">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2.spring-boot-swagger2/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.352941">
+              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -137,6 +126,7 @@
         <option value="$PROJECT_DIR$/spring-boot-logback-lombok/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/3.spring-boot-logback-lombok/src/main/java/cn/xt/app/SpringBootLogbackLombokApplication.java" />
+        <option value="$PROJECT_DIR$/3.spring-boot-logback-lombok/pom.xml" />
       </list>
     </option>
   </component>
@@ -238,6 +228,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="spring-boot-parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-boot-parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-boot-parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3.spring-boot-logback-lombok" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -838,7 +842,7 @@
       <workItem from="1541829612802" duration="706000" />
       <workItem from="1541934721094" duration="3918000" />
       <workItem from="1541938655750" duration="145000" />
-      <workItem from="1541938816596" duration="1642000" />
+      <workItem from="1541938816596" duration="1793000" />
     </task>
     <task id="LOCAL-00001" summary="添加 logback 与 lombok">
       <created>1541939507994</created>
@@ -867,11 +871,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10625000" />
+    <option name="totallyTimeSpent" value="10776000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -884,7 +888,7 @@
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1223,22 +1227,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.spring-boot-swagger2/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18270402">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.spring-boot-logback-lombok/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27405602">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.spring-boot-hello-world/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.1875762">
@@ -1257,13 +1245,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3.spring-boot-logback-lombok/src/main/java/cn/xt/app/SpringBootLogbackLombokApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57581574">
+        <state vertical-scroll-proportion="0.0">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#255#256#0" expanded="true" />
             <element signature="e#331#332#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.spring-boot-swagger2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.352941">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.spring-boot-logback-lombok/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4476386">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
