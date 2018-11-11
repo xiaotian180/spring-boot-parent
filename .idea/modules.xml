@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/spring-boot-hello-world/spring-boot-hello-world.iml" filepath="$PROJECT_DIR$/spring-boot-hello-world/spring-boot-hello-world.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-boot-logback-lombok/spring-boot-logback-lombok.iml" filepath="$PROJECT_DIR$/spring-boot-logback-lombok/spring-boot-logback-lombok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.spring-boot-hello-world/spring-boot-hello-world.iml" filepath="$PROJECT_DIR$/1.spring-boot-hello-world/spring-boot-hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.spring-boot-logback-lombok/spring-boot-logback-lombok.iml" filepath="$PROJECT_DIR$/3.spring-boot-logback-lombok/spring-boot-logback-lombok.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-parent.iml" filepath="$PROJECT_DIR$/spring-boot-parent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-boot-swagger2/spring-boot-swagger2.iml" filepath="$PROJECT_DIR$/spring-boot-swagger2/spring-boot-swagger2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.spring-boot-swagger2/spring-boot-swagger2.iml" filepath="$PROJECT_DIR$/2.spring-boot-swagger2/spring-boot-swagger2.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-study-swagger2/study-swagger2.iml" filepath="$PROJECT_DIR$/spring-boot-study-swagger2/study-swagger2.iml" />
     </modules>
   </component>

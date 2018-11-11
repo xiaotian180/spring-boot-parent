@@ -12,8 +12,9 @@
 
     <!-- 引用子项目(多个) -->
     <modules>
-        <module>spring-boot-hello-world</module>
-        <module>spring-boot-study-swagger2</module>
+        <module>1.spring-boot-hello-world</module>
+        <module>2.spring-boot-swagger2</module>
+        <module>3.spring-boot-logback-lombok</module>
     </modules>
 
     <!-- 继承 spring 的 starter parent -->
