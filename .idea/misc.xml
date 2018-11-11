@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/spring-boot-study-helloworld/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-hello-world/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-swagger2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-logback-lombok/pom.xml" />
       </list>
     </option>
   </component>

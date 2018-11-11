@@ -29,13 +29,6 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
       </profile>
-      <profile default="false" name="Annotation profile for spring-boot-hello-world" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="spring-boot-hello-world" />
-      </profile>
       <profile default="false" name="Annotation profile for study-swagger2" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -43,16 +36,25 @@
         <processorPath useClasspath="true" />
         <module name="study-swagger2" />
       </profile>
-      <profile default="false" name="Annotation profile for spring-boot-swagger2" enabled="true">
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="spring-boot-hello-world" />
         <module name="spring-boot-swagger2" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-boot-logback-lombok" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-boot-logback-lombok" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-boot-hello-world" target="1.8" />
+      <module name="spring-boot-logback-lombok" target="1.8" />
       <module name="spring-boot-parent" target="1.8" />
       <module name="spring-boot-study-helloworld" target="1.8" />
       <module name="spring-boot-study-swagger2" target="1.8" />
